@@ -1,3 +1,3 @@
 # HSP
 
-https://dashboard.heroku.com/new?template=rex99123/web
+https://dashboard.heroku.com/new?template=https://github.com/rex99123/web
